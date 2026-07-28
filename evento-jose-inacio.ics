@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Convite José Inácio//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:jose-inacio-1-ano-20260912T160000@convite
+DTSTAMP:20260727T220000Z
+DTSTART:20260912T160000
+DTEND:20260912T200000
+SUMMARY:Aniversário de 1 ano do José Inácio
+DESCRIPTION:Missão especial: comemorar o primeiro aniversário do nosso pequeno chefe José Inácio!
+LOCATION:https://maps.app.goo.gl/LLVXrBMMtzkzak449?g_st=ic
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
